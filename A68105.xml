@@ -1,0 +1,1345 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The way to well-doing. Or A sermon of faith and good vvorkes Preached in the chappell of Buntingford, in the county of Hartford, at the beginning of their publike lecture. By Iohn Gore, rector of Wenden-lofts in Essex.</title>
+            <author>Gore, John, Rector of Wendenlofts, Essex.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1638</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 62 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A68105</idno>
+            <idno type="STC">STC 12087</idno>
+            <idno type="STC">ESTC S116024</idno>
+            <idno type="EEBO-CITATION">99851241</idno>
+            <idno type="PROQUEST">99851241</idno>
+            <idno type="VID">16509</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A68105)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 16509)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1547:06, 1687:04, 1687:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The way to well-doing. Or A sermon of faith and good vvorkes Preached in the chappell of Buntingford, in the county of Hartford, at the beginning of their publike lecture. By Iohn Gore, rector of Wenden-lofts in Essex.</title>
+                  <author>Gore, John, Rector of Wendenlofts, Essex.</author>
+                  <author>Gore, John, Rector of Wendenlofts, Essex, Summer sermon. aut</author>
+                  <author>Gore, John, Rector of Wendenlofts, Essex. Winter sermon. aut</author>
+               </titleStmt>
+               <extent>[4], 36+ p.   </extent>
+               <publicationStmt>
+                  <publisher>By Thomas Cotes, for Thomas Alchorn, and are to be sold at his shop in Pauls Church-yard, at the signe of the Greene-Dragon,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1638.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Also issued as part of his "Certayn sermons", 1639 (STC 12071.5).</note>
+                  <note>In three parts, each with separate dated title pages and pagination; signatures continuous.</note>
+                  <note>Part 2, "A summer sermon", is formerly STC 12077 and part 3, "A winter sermon", is formerly STC 12089.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+                  <note>Appears at reel 1687 #4 (part 1 only), at reel 1687 #5 (part 3 only, identified as STC 12089) and at reel 1547 #6 (part 2 only, identified as STC 12077).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:16509:1"/>
+            <p>
+               <hi>A
+SVMMER
+SERMON
+VPON
+ELIAHS PRAYER.
+Preached in the</hi> Cathedrall Church <hi>of
+St.</hi> Pauls <hi>in LONDON,</hi> on the laſt Sonday of
+<hi>Trinity Terme</hi> in the afternoone, being a time
+of extraordinary heat and drought.</p>
+            <p>
+               <hi>By</hi> John Gore, <hi>Rector of</hi> Wenden<g ref="char:EOLhyphen"/>lofts
+in Eſſex.</p>
+            <p>Printed at <hi>London</hi> by <hi>Thomas Cotes,</hi> for <hi>Themas Alchorn,</hi>
+and are to be ſold at his ſhop in <hi>Pauls</hi> Church-yard, at
+the Signe of the <hi>Greene-Dragon. 1638.</hi>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:16509:2"/>
+            <pb facs="tcp:16509:2"/>
+            <head>TO
+THE RIGHT
+WORSHIPF<g ref="char:V">Ʋ</g>LL, M<hi rend="sup">r</hi>.
+VVILLIAM BIRD, Doctor of the Ci<g ref="char:EOLhyphen"/>vill
+Law, my moſt Worthy Friend
+and Benefactor.</head>
+            <opener>
+               <salute>RIGHT WORSHIP.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I conſider the manifold fa<g ref="char:EOLhyphen"/>vours
+and courteſies that I have
+found at your hands, I am ready
+to ſay unto my ſelfe, as <hi>Ruth</hi> ſaid
+once to <hi>Boaz, Ruth 2. 10. Qua<g ref="char:EOLhyphen"/>re
+inveni gratiam?</hi> Why have I found grace
+in your eyes, that you ſhould take knowledge of me,
+ſeeing I am a ſtranger? For mine owne part I
+can impute it to nothing, but unto Gods goodneſſe,
+and your owne worthineſſe: And my onely ambi<g ref="char:EOLhyphen"/>tion
+is to make you this acknowledgement that the
+<pb facs="tcp:16509:3"/>
+world may ſee, though I am poore, I am thankefull.
+Now as <hi>Ioab</hi> wiſht to <hi>David</hi> in another caſe, <hi>2
+Sam. 24. 3.</hi> ſo wiſh I to you, The Lord God adde
+unto your eſtate, how much ſoever it be, an hundred
+fold, and that your eyes may ſee it, and your heart
+may rejoyce in it all the dayes of your life.</p>
+            <closer>
+               <signed>Thus prayes<lb/>
+Your poore unworthy<lb/>
+Friend,<lb/>
+JOHN GORE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:16509:3"/>
+            <head>A
+SVMMER
+SERMON.</head>
+            <epigraph>
+               <bibl>IAMES 5. 17, 18.</bibl>
+               <q>Elias was a man ſubject to like paſsions as wee are, and
+hee prayed earneſtly that it might not raine, and it
+rained not on the earth by the ſpace of three yeares
+and ſixe moneths. And hee prayed againe, and
+the heavens gave raine, and the earth brought forth
+her fruit.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He ſumme and drift of this Text
+is to ſet forth the efficacie, or ra<g ref="char:EOLhyphen"/>ther
+omnipotency of earneſt
+and fervent Prayer. There be
+two graces of God in man, that
+may juſtly be termed Omnipo<g ref="char:EOLhyphen"/>tent
+or Almighty graces; God
+himſelfe being pleaſed to ſhew his Almighty power
+<pb n="2" facs="tcp:16509:4"/>
+and goodneſſe in them, and they are <hi>Faith</hi> and <hi>Pray<g ref="char:EOLhyphen"/>er.</hi>
+1. For the firſt, <hi>Mat. 15. 28. O woman great is
+thy faith, bee it unto thee even as thou wilt.</hi> What a
+large unlimitted Grant and Patent was this for a
+poore ſinner to aske what ſhe would, and have pro<g ref="char:EOLhyphen"/>miſe
+of acceptance. <hi>Mark. 9. 23. To him that belee<g ref="char:EOLhyphen"/>veth
+all things are poſsible.</hi> Looke what a beleever
+cannot doe himſelfe, God himſelfe will doe it for
+him, and yet it ſhal be accounted as his act and deed.
+<hi>Phil. 4. 13. I can doe all things through Chriſt that
+ſtrengtheneth me:</hi> Not meaning that hee could doe
+all things in generall and at large, as to walke on the
+waters, flye in the ayre, &amp;c. but all things that be<g ref="char:EOLhyphen"/>longed
+to his calling, all things that concerned his
+Miniſtery, and all things that pertained to the right
+way of pleaſing God and of ſaving his owne ſoule:
+He could pray well, Preach well, live well; he could
+want and he could abound, he could conforme and
+apply himſelfe to all eſtates whatſoever: All this
+hee could doe, not by any power or ability of his
+owne, but by the ſtrengthning grace, and faith, and
+vertue of Ieſus Chriſt, <hi>(I can doe all things through
+Chriſt that ſtrengthneth me.)</hi> As on the contrary, our
+Saviour ſaith of himſelfe, <hi>Mark. 6. 5.</hi> that he could
+doe nothing worth ſpeaking of in his owne Coun<g ref="char:EOLhyphen"/>try,
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>no mighty worke,</hi> no worke of
+wonder (in reſpect of what he could have done) on<g ref="char:EOLhyphen"/>ly
+<hi>becauſe of their unbeleife:</hi> and marke, that it is not
+ſaid, <hi>He would</hi> do no ſuch workes there, but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<hi>He could</hi> not doe them: not that Chriſt was unable
+for want of power, but hee ſaw it was unavaileable
+through their lacke of faith. For the power of God,
+<pb n="3" facs="tcp:16509:4"/>
+and the faith of men, are like the ſpirits and the ſi<g ref="char:EOLhyphen"/>newes
+in the body, the one mooves, and ſtirres, and
+workes within the other; if there be no faith in us,
+there can be no expectation of any power or any
+helpe from God.</p>
+            <p>2. The other omnipotent grace is <hi>Prayer;</hi> and that
+you may be aſſured it is ſo, marke but that expreſſi<g ref="char:EOLhyphen"/>on,
+<hi>Exod. 32. 10. Let me alone</hi> (ſaith God to <hi>Moſes)
+that I may conſume them, and I will make of thee a great
+Nation.</hi> What a word was this to come from the
+mouth of Almighty God, to bid a poore weake
+creature, <hi>let him alone:</hi> it ſhewes that <hi>Moſes</hi> by his
+prayer did even (as it were) <hi>over-power</hi> the Lord,
+that the Lord had not the power to revenge him<g ref="char:EOLhyphen"/>ſelfe
+on that provoking people, as long as <hi>Moſes</hi> in<g ref="char:EOLhyphen"/>terceded
+for them.</p>
+            <p>Such a powerfull man with God was <hi>Eliah</hi> here
+in my text: His mouth (as a Father ſaith) was <hi>Frae<g ref="char:EOLhyphen"/>num
+Coeli,</hi> the very bridle of Heaven; he could even
+rule the heavens with his prayers, as a man rules a
+horſe with a bridle: Now leaſt you ſhould thinke
+he did thus prevaile with God, rather by the privi<g ref="char:EOLhyphen"/>ledge
+of his perſon, than by the vertue of his pray<g ref="char:EOLhyphen"/>ers,
+The Apoſtle tells us for that, he was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>he
+was a man ſubject to the ſame paſsions that we are,</hi> and
+yet his prayer tooke ſuch good effect. <hi>(Eliah was a
+man ſubject, &amp;c.)</hi>
+            </p>
+            <p>In my text there are two generall points to bee
+conſidered. 1. The condition and quality of <hi>Eliahs</hi>
+perſon, <hi>[He was a man ſubject to like paſsions as wee
+are]</hi> 2. The condition and quality of his prayer;
+that like a two-edged ſword, it cut both wayes, and
+<pb n="4" facs="tcp:16509:5"/>
+prevailed in both kindes; both to bring a judge<g ref="char:EOLhyphen"/>ment,
+and to bring a bleſſing upon the people. His
+firſt prayer like a burning feaver entred into the
+bowels of the earth, and ſcorcht and dryed up the
+Rivers and Lakes, and Springs, and left no moiſture
+in them; and ſo brought a judgement of drought and
+dearth upon the land. His ſecond prayer went up
+into the clouds above, and fetcht an <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a
+<hi>heaven-dropping dew,</hi> a happy and a heavenly raine
+that moyſtned and fatned, and refreſhed the earth
+againe <hi>[He prayed againe, and the heavens gave raine,
+and the earth brought forth her fruit.</hi>
+            </p>
+            <p>1. The condition and quality of <hi>Eliahs</hi> perſon,
+what manner of man <hi>Eliah</hi> was? My Text ſaith hee
+was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>A man ſubject to the ſame paſsions,</hi> to
+the ſame frailties and infirmities <hi>that we are.</hi> Hence
+you may obſerve, that no profeſſion of holineſſe,
+no practiſe of piety, no degree of grace and ſanctifi<g ref="char:EOLhyphen"/>cation
+in this life, can exempt, or free, or priviledge
+a man from common paſſions, and infirmities, <hi>Eliah</hi>
+was a man of God, a mortified and a ſanctified man,
+and one of the greateſt favourites in the Court of
+heaven, and yet a man ſubject to paſſions. What
+ſhall I neede to multiply examples to proove this
+point, when wee know the Apoſtle affirmeth even
+of our Saviour himſelfe, <hi>That hee was in all things
+like unto us ſinne onely excepted:</hi> ſet but ſinne aſide
+(where of his bleſſed perſon was uncapable, for as
+no ruſt can take hold of burning and flaming iron;
+no more could any ſin or corruption take hold of his
+pure and precious ſoule) ſet but that aſide, and our
+Saviour Chriſt was (as <hi>Eliah</hi> is ſaid to be) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>a
+<pb n="5" facs="tcp:16509:5"/>
+man ſubject to the very ſame infirmities and paſsions,</hi> of
+anger, and feare, and ſorrow, and ſadneſſe, <hi>that wee
+are:</hi> and happy was it for us that ſo he was; for by
+this meanes he became (as the Apoſtle ſaith, <hi>Heb. 2.
+17. A mercifull High-Prieſt,)</hi> one that knew how
+to tender and ſuccour our infirmities, becauſe him<g ref="char:EOLhyphen"/>ſelfe
+had a feeling of them in his owne nature. This
+made him ſo tenderly affected towards the hungry
+multitude, <hi>Mat. 15.</hi> becauſe himſelfe knew by his
+owne experience what an unſufferable miſery hun<g ref="char:EOLhyphen"/>ger
+was. This made him ſo compaſſionate towards
+the ſorrowes of <hi>Mary</hi> and <hi>Martha, Iohn 11.</hi> be<g ref="char:EOLhyphen"/>cauſe
+himſelfe was <hi>Vir dolorum, a man acquainted
+with griefe and ſorrow:</hi> And ſuch was his compaſſi<g ref="char:EOLhyphen"/>on
+toward <hi>Peter</hi> in that ſtate of deſertion wherein
+he lay, <hi>Luke 22.</hi> becauſe himſelfe knew and felt in
+his owne ſoule, what a woefull thing it was to be
+forſaken of God. And this is the aſſurance which
+the Apoſtle gives us, that wee ſhall obtaine mercy
+and grace from Ieſus Chriſt, to helpe and comfort
+us in time of neede, <hi>Heb. 4. 16.</hi> becauſe himſelfe
+had a feeling of the ſame infirmities, and was a man
+ſubject to the ſame paſſions that wee our ſelves are,
+ſinne onely excepted.</p>
+            <p>In a word then, as there is no Roſe ſince the Crea<g ref="char:EOLhyphen"/>tion,
+but hath his prickles, as well as his ſweete
+leaves; ſo there is no man living ſince the fall of
+<hi>Adam,</hi> (except our Saviour forementioned, who
+was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>God</hi> and <hi>man</hi> both) but hath his paſ<g ref="char:EOLhyphen"/>ſions
+as well as his perfections, his infirmities as well
+as his graces. As <hi>Cyril</hi> obſerves, there is no Rocke
+of ſtone ſo hard, but hath ſome crackes, ſome clefts
+<pb n="6" facs="tcp:16509:6"/>
+and ſeames in it, whereat weedes ſpring out and
+grow: ſo there is no mans heart ſo ſanctified and
+filled with grace, but hath ſome crackes, ſome flawes
+in it, whereat his ſinnes and corruptions ſprout and
+iſſue out, to his no ſmall regret and greife. And as
+we ſee by experience, that there is chaffe about eve<g ref="char:EOLhyphen"/>ry
+corne in the field, and bitterneſſe in every branch
+of Wormewood, and ſaltneſſe in every drop of wa<g ref="char:EOLhyphen"/>ter
+in the Sea: ſo is there infirmity and frailty, cor<g ref="char:EOLhyphen"/>ruption
+and paſſion in every man, woman, and child,
+of what eſtate, of what degree, of what profeſſi<g ref="char:EOLhyphen"/>on
+ſoever. <hi>Eliah was</hi> a holy man, a zealous
+man, a man of God, and yet <hi>a man ſubject to paſ<g ref="char:EOLhyphen"/>ſions.</hi>
+            </p>
+            <p>Let no man therefore be too forward or too ſe<g ref="char:EOLhyphen"/>vere
+in cenſuring and condemning the follies and
+frailties, the weakeneſſes and paſſions of godly men,
+or of the men of God, (ſuch as <hi>Eliah</hi> was) for alas,
+they are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſubject to the ſame paſſions that
+other men are, <hi>Solomon</hi> tels us, <hi>Pro. 27, 19, That as in
+water, face anſwereth to face, ſo doth the heart of man
+to man.</hi> A man that lookes into the water, or into a
+glaſſe, ſhall ſee a face there in all points anſwering to
+his owne, the ſame ſpots, the ſame warts, the ſame
+wrinkles and blemiſhes that he ſees in the face in the
+water; they are all the very ſame in his owne face,
+there is face anſwering to face, ſo doth the heart of
+man to man; the ſame evils, the ſame corruptions,
+luſts and ſins, that thou ſeeſt in another mans heart,
+breaking out into his life, the very ſelfe-ſame are in
+thy owne heart; his heart to thine is but as a face
+anſwering to a face in the water. Obſerve the A<g ref="char:EOLhyphen"/>poſtles
+<pb n="7" facs="tcp:16509:6"/>
+demand, <hi>1 Cor. 4. 7.</hi> and apply it to thy ſelfe
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>? <hi>Who makes thee to differ from another man?</hi>
+For by nature all are alike, all equally devoid of ſpi<g ref="char:EOLhyphen"/>rituall
+grace and goodneſſe, and all equally prone to
+ſinne and wickedneſſe: how comes it to paſſe then,
+that one man differs from another, that one is holy,
+blameleſſe, and undefiled in his way; another li<g ref="char:EOLhyphen"/>centious
+and looſe, and ſpotted with the world?
+Anſwer, It is not any thing in nature (beleeve that
+for a truth) but meerely that ſame <hi>Gratia diſcrimi<g ref="char:EOLhyphen"/>nans</hi>
+(as Divines call it) that <hi>diſtinguiſhing Grace</hi> of
+God, it is that which makes the difference betwixt
+one man and another. Let no man therefore aſcribe
+any thing to himſelfe for his freedome from great
+offences, but give God the glory of his grace which
+had made him to differ from the greateſt ſinner, and
+if at any time, thou ſeeſt another man breake out
+into paſſion, or miſcarry in his way by ſome ill
+temptation; reprove him in Gods name; and pray
+for him when thou haſt done, and withall, reflect
+upon thy ſelfe, and ſay, as <hi>Plato</hi> did, <hi>Num ego talis
+uſpiam? Am not I ſuch a one?</hi> Have not I beene, or
+may not I be as vile and as vicious as hee? Be not
+therefore too cenſorious nor too ſupercilious (as the
+manner of ſome is) but incline rather to thinke eve<g ref="char:EOLhyphen"/>ry
+man better, than to thinke any man worſe than
+thy ſelfe: if thou ſeeſt thy brother <hi>overtaken in a
+fault,</hi> doe then as the Apoſtle adviſeth thee, <hi>Gal.
+6. 1.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>reſtore him with the ſpirit of meckeneſſe,</hi>
+or (as the word ſignifieth) bind him up gently and
+lovingly, as a Chirurgian doth a bone that is out of
+joynt; <hi>Conſidering thy ſelfe</hi> (ſaith hee) <hi>leaſt thou
+<pb n="8" facs="tcp:16509:7"/>
+alſo be tempted;</hi> conſidering (I ſay) that thou art, as
+he is, and all men are, as <hi>Eliah</hi> was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, too like
+one another in that which is naught, all ſubject to
+the ſame paſſions; <hi>All</hi> (as the Apoſtle ſaith) <hi>ſhut up
+under ſinne,</hi> And I pray God of his goodneſſe have
+mercy on us all, Amen.</p>
+            <p>Againe, the conſideration of this, if it be rightly
+conceived, may ſerve for a comfort and a ſtay un<g ref="char:EOLhyphen"/>to
+ſuch tender conſciences as have ſinned of infir<g ref="char:EOLhyphen"/>mity,
+and like <hi>Moſes</hi> in their haſte, have ſpoken un<g ref="char:EOLhyphen"/>adviſedly
+with their lips, not being able for the
+time to over-rule and bridle their paſſions. It is ſome
+comfort to conſider, that the greateſt Saints of
+God have ſometimes beene of the ſame temper;
+yea there is not a ſoule in heaven (the ſoule of Ieſus
+Chriſt onely excepted) but hath beene ſometimes
+ſubject to the very ſame paſſions. <hi>And I ſaid, This is
+my infirmity</hi> (ſaith the Pſalmiſt) <hi>Pſal. 77. 10. but I
+remember the yeares of the right hand of the moſt
+High. i.</hi> I conſider and call to minde that God in
+former times, and in the dayes of old, hath had
+compaſſion upon the ſame infirmities in other men;
+and why ſhould I miſdoubt (he being ſtill the ſame
+compaſſionate God) but that hee will have pitty
+and compaſſion upon the ſame infirmities in me. But
+ſome man may ſay: How ſhall I know and be aſſu<g ref="char:EOLhyphen"/>red
+that my ſinnes are ſinnes of infirmity, ſuch as
+God will winke at; and not rather ſinnes of pre<g ref="char:EOLhyphen"/>ſumption
+and iniquity, ſuch as his ſoule abhorres?
+Anſwer, A ſinne of infirmity may be knowne two
+wayes.</p>
+            <p>1. By the antecedent which goes before it; and
+<pb n="9" facs="tcp:16509:7"/>
+that is an honeſt reſolution of a mans heart againſt
+ſinne and evill; when a man doth ſtedfaſtly reſolve
+(by the aſſiſtance and grace of God) to ſeparate
+himſelfe from every knowne ſinne, and to ſanctifie
+himſelfe in all holy duty and obedience to God,
+ſtriving by a holy deſire and an hearty endeavour, in
+nothing willingly to ſinne againſt God, but in eve<g ref="char:EOLhyphen"/>ry
+thing to pleaſe him and approove himſelfe unto
+him: if ſuch a man chance to fall by occaſion into
+a fault, or be overtaken unawares (as the Apoſtle
+ſpeakes, <hi>Gal. 6. 1.)</hi> beſides the purpoſe of his heart,
+and the intention and deſire of his ſoule: that mans
+ſinnes, are ſinnes of infirmity, which by the mercy
+of God ſhall never be laid to his charge. Contrari<g ref="char:EOLhyphen"/>ly,
+when a man ſhall hang <hi>in equilibrio,</hi> in an even
+ballance (as it were) betwixt wickedneſſe and
+goodneſſe, and ſhall be equally diſpoſed to ſinne or
+not to ſinne as occaſion ſhall offer it ſelfe; or which
+is worſe, ſhall doe like him, <hi>Pſal. 36. 4.</hi> ſhall ſet, and
+ſettle himſelfe in a way that is not good, reſolving
+with himſelfe, that this ſinne fits my turne, and
+pleaſeth my humour, and I will not part with it: or
+which is worſt of all, when a man ſhall <hi>draw iniqui<g ref="char:EOLhyphen"/>ty
+with cords of vanity</hi> (as the Prophet ſpeaketh) as
+if the devill were backeward, and ſinne would not
+come faſt enough upon him of its owne accord;
+ſhall fiſh and angle for it, and hunt after ill compa<g ref="char:EOLhyphen"/>ny,
+and draw himſelfe and others into ſinne, as Fiſh
+and Fowles are drawne into a net, to their ruine and
+deſtruction; this mans ſinnes are farre beyond the
+ſinne of infirmity, for they are ſinnes of iniquity,
+and ſinnes of obſtinacy, and ſuch as will coſt him
+<pb n="10" facs="tcp:16509:8"/>
+many a ſigh, many a groane, many a teare, before e<g ref="char:EOLhyphen"/>ver
+he ſhall attaine to this comfortable perſwaſion,
+that there is compaſſion with God, and ſalvation
+with Chriſt for his ſoule.</p>
+            <p>2. A ſinne of infirmity is knowne by the conſe<g ref="char:EOLhyphen"/>quents
+of it, or that which followes after it: it leaves
+ſuch a ſting behind it in the ſoule, that a man can
+never be at quiet in his owne conſcience, till he hath
+made his peace with God by a ſound and ſerious
+humiliation, and reconciled himſelfe againe to Ie<g ref="char:EOLhyphen"/>ſus
+Chriſt. Yea, it never leaves a man, till it hath
+brought him to that ſame <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that <hi>Indigna<g ref="char:EOLhyphen"/>tion</hi>
+which the Apoſtle ſpeakes of, <hi>2 Cor. 7. 11.</hi> that
+a man ſhall even fret and vexe and fall out with him<g ref="char:EOLhyphen"/>ſelfe
+for offending and provoking ſo good, ſo graci<g ref="char:EOLhyphen"/>ous
+a God. It will make a man upbraid himſelfe for
+a very beaſt and a foole (as <hi>David</hi> did, <hi>Pſal. 73.) So
+ignorant was I, and ſo fooliſh, even as a beaſt before thee.</hi>
+And it is a ſure rule, that of Saint <hi>Auguſtine; Pecca<g ref="char:EOLhyphen"/>ta
+non nocent, ſi non placent; if a mans ſinnes doe not
+pleaſe him, they will never hurt him.</hi> Whereas on the
+contrary, when a man can carry away his ſinnes as
+lightly as <hi>Sampſon</hi> carryed the gates of <hi>Azza,</hi> that
+they are no burthen to his ſoule; or if they doe be<g ref="char:EOLhyphen"/>ginne
+to trouble him, ſhall doe as <hi>Saul</hi> did, betake
+himſelfe to muſicke and ſport, and merry company
+to drive it away (as if one ſinne could drive out ano<g ref="char:EOLhyphen"/>ther,
+and not rather drive it further in:) beleeve
+it, this mans ſinnes are no ſinnes of infirmity, but
+they are ſinnes of an higher nature, and ſuch as will
+coſt a man deare ere he can be acquitted of them in
+the ſight of God. And this I dare confidently af<g ref="char:EOLhyphen"/>firme,
+<pb n="11" facs="tcp:16509:8"/>
+that there is no man that ſinnes of infirmity,
+but he is afterward the better for his ſinne; it makes
+him the more jealous of himſelfe, the more watch<g ref="char:EOLhyphen"/>full
+over his wayes, the more carefull to ſerve and
+pleaſe God, than ever he had beene in former times.
+Whereupon ſaith Saint <hi>Auſtin,</hi> upon thoſe words
+of the Apoſtle, <hi>Rom. 8. Omnia cooperantur, &amp;c. All
+things worke together for good to them that love God.
+Etiam pecata Domine, Even our very ſinnes O Lord;</hi>
+for by ſinne wee have experience of our infirmity,
+our infirmity brings us downe to humility, humility
+brings us home to God, and in God every man hath
+his <hi>quietus eſt,</hi> a happy diſcharge from all his ſins.
+This being done, one thing onely remaines, and
+that is this; A man that hath ſinned of infirmity,
+will labour to bring forth that ſame <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which
+<hi>Iohn Baptiſt</hi> ſpeakes of, <hi>Mat. 3. 8. The worthy fruites
+of repentance;</hi> for you moſt know, that repentance
+is one thing, and the fruit of repentance is another;
+it is not enough to repent, and be ſorry for what a
+man hath done (ſo did <hi>Iudas,</hi> ſo did <hi>Ahab)</hi> but he
+muſt honeſtly and unfainedly endeavour to bring
+forth the fruit of repentance, and that is the refor<g ref="char:EOLhyphen"/>mation
+and alteration of his life, and converſation
+in the ſight of God and men. If it be thus with thee,
+take comfort (in Gods name) from this comforta<g ref="char:EOLhyphen"/>ble
+Doctrine, that thou art no other then <hi>Eliah</hi> was,
+a man ſubject to paſſion.</p>
+            <p>It followes; <hi>Eliah was a man ſubject to paſsions,
+yet he prayed;</hi> Hence we may learne, never to be ſo
+dejected at the view of our frailties and imperfecti<g ref="char:EOLhyphen"/>ons,
+as to forbeare our reſorting to God in prayer.
+<pb n="12" facs="tcp:16509:9"/>
+For no man living hath ſo much neede to pray to
+God, as a man ſubject to paſſions. It was one part
+of <hi>Solomons</hi> requeſt to God, <hi>2 Chron. 6. 29. When
+any one ſhall perceive and feele his owne ſore, his owne
+griefe,</hi> and the Plague of his owne heart (as he ter<g ref="char:EOLhyphen"/>meth
+a mans owne corruption) what ſhall hee doe?
+Shall he deſpaire, ſhall hee be driven backe from
+God (as <hi>Iordan</hi> was driven backe at the preſence of
+the <hi>Arke)</hi> no, let him doe this; let him downe
+upon his knees to God, and ſpread forth his hands
+to Heaven, and the Lord which dwelleth in Hea<g ref="char:EOLhyphen"/>ven
+will heare him, and when he heares, have mer<g ref="char:EOLhyphen"/>cy.
+It was an amazed and unadviſed prayer, that of
+<hi>Simon</hi> to our Saviour, <hi>Luke 5. 8.</hi> when hee cryed
+out, <hi>Lord goe from me, for I am a ſinfull man;</hi> as if
+a Patient ſhould ſay to the Phyſitian, depart from
+mee, for I am ſicke. The ſicker a man is, the more
+neede he hath of the Phyſitians preſence; and the
+ſinfuller he is, the more neede to draw neere to his
+Saviour: as a man that ſhivers of an Ague creepes
+nearer and nearer to the fire. You know our Savi<g ref="char:EOLhyphen"/>ours
+gracious call, <hi>Come unto me all ye that are weary
+and heavy laden, and I will eaſe you.</hi> Now (as Saint
+<hi>Bernard</hi> ſaith,) every Chriſtian is <hi>Animal oneriferum,
+a burden-bearing creature;</hi> not a Chriſtian upon earth
+but hath ſome croſſe or other to clogge him, ſome
+corruption or other to burthen him at times, and
+lies heavy upon his heart; what then is to be done?
+Shall hee lye downe like <hi>Iſſachar,</hi> and couch be<g ref="char:EOLhyphen"/>tweene
+his burthen? Shall hee be diſheartened and
+diſcouraged from reſorting and approaching to
+God? God forbid; let him in Gods name come to
+<pb n="13" facs="tcp:16509:9"/>
+Ieſus Chriſt that cals him, with teares in his eyes,
+with true griefe and godly ſorrow in his heart, with
+humble confeſſions and prayers in his mouth; and
+he hath promiſed <hi>in verbo ſervatoris,</hi> in the word
+of a Saviour, that he will releaſe and eaſe him of it.
+One thing I muſt tell thee by the way, when thou
+prayeſt to Chriſt for eaſe, thou muſt promiſe him
+obedience and ſervice; as the Iſraelites did to <hi>Rhe<g ref="char:EOLhyphen"/>hoboam,
+1 Reg. 12. Eaſe us of our burthen, and we will
+be thy ſervants for ever.</hi> Thus doe, and then let thy
+burthen be never ſo great, thy corruptions never
+ſo many, thy paſſions never ſo ſtrong; Hee that
+could calme the ſea, can calme thy ſorrowes, and
+ſpeake peace unto thy ſoule in the midſt of all thy
+troubles, and therefore, if at any time thy paſſions
+be ſtirred, and thy heart diſquieted within thee;
+know of a ſurety, that, there is ſome <hi>Ionah</hi> that
+hath raiſed this ſtorme, ſome ſinne or other that
+hath cauſed this trouble to thy ſoule; then fall to
+thy prayers (as <hi>Eliab</hi> did) and give God no reſt, till
+God hath given reſt to thy ſoule. <hi>Eliah was a man
+ſubject to paſsions, and he prayed.</hi>
+            </p>
+            <p>It followes, How did he pray? My Text ſaith, <hi>he
+prayed earneſtly,</hi> in the Originall it is, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>In praying he prayed,</hi> or, <hi>he prayed a prayer,</hi> we tran<g ref="char:EOLhyphen"/>ſlate
+it, <hi>He prayed earneſtly,</hi> and it is to very good
+purpoſe; for it implies thus much: that no prayer
+is a prayer indeede, but an earneſt prayer. Cold
+and careleſſe prayers, counterfeit and ſuperſtitious
+prayers, they be but <hi>res nihili,</hi> in Gods account no
+prayers at all. I will give you an inſtance, <hi>Act. 9.
+11.</hi> When <hi>Paul</hi> was converted and ſtricken with
+<pb n="14" facs="tcp:16509:10"/>
+blindneſſe, Almighty God ſent <hi>Ananias</hi> to him
+to lay his hands upon him, and to recover him of
+his fight; now leaſt he ſhould miſtake the man, and
+lay his hands upon a wrong party, God gives him
+this private token to know him by, <hi>forbehold he pray<g ref="char:EOLhyphen"/>eth.</hi>
+Now let mee demand; doe you thinke that
+Saint <hi>Paul</hi> never prayed to God till that time? or
+doe you imagine that was the firſt prayer that ever
+Saint <hi>Paul</hi> made? It is the firſt wee reade of; but
+doe you thinke hee never prayed before? I beleeve
+he did many a time and oft; and I will give you my
+reaſon: Saint <hi>Paul</hi> (you know) was a Phariſee, one
+of the ſtricteſt and devouteſt of all the Sect (as hee
+teſtifies of himſelfe) and the Phariſees, you know,
+were altogether given to long praying; it was their
+glory and their gaine too, that they could make long
+prayers in every place, in the open ſtreetes, in wid<g ref="char:EOLhyphen"/>dowes
+houſes; and no doubt but Saint <hi>Paul</hi> had as
+excellent a faculty that way, and could pray as long
+and as largely as the beſt of them all: but ſee the iſ<g ref="char:EOLhyphen"/>ſue:
+Almighty God, who ſtiles himſelfe the hea<g ref="char:EOLhyphen"/>rer
+of prayers, gave no eare, tooke no notice of all
+his formall, Phariſaicall, hypocriticall prayers,
+which he had made in former times; till hee came
+to this humble, this earneſt, this heart-breaking
+prayer; <hi>And now</hi> (ſaith God) <hi>Behold he prayeth;</hi> he
+never prayed indeed, till now: for as <hi>Philo</hi> ſaith
+well; God doth not <hi>numerare,</hi> but <hi>ponderare, not
+number our prayers, but weigh them;</hi> if he finde them
+cordiall, if hee finde them hearty, that they have
+ſome ſubſtance, and ſome weight in them, then he
+records and regiſters and ſets them downe in that
+<pb n="15" facs="tcp:16509:10"/>
+booke of remembrance which the Prophet ſpeakes
+of, <hi>Mal. 3. 16.</hi> If otherwiſe, they be dull and heart<g ref="char:EOLhyphen"/>leſſe,
+lazy and ſpiritleſſe, God doth by them as he
+doth by our ſinnes of ignorance, <hi>Act. 17. 30.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+winke at them, paſſe by, and take no notice of them;
+let no man therefore deceive himſelfe to thinke that
+all kinde of praying ſpeedes alike, for no prayer is a
+prayer in Gods account, but an earneſt prayer, <hi>Eliah</hi>
+prayed a prayer, becauſe he prayed earneſtly.</p>
+            <p>Furthermore, it is worth your noting, to ſee the
+conſtant diſpoſition of this holy man. <hi>Eliah</hi> was well
+knowne to bee a hot ſpirited man in all his actions,
+exceeding zealous and earneſt in all his reprehenſi<g ref="char:EOLhyphen"/>ons,
+both of the King, and of the people. Now
+here you may obſerve the equability, the evenneſſe
+of <hi>Eliahs</hi> zeale; as he was earneſt in his reprehenſi<g ref="char:EOLhyphen"/>ons,
+ſo he was as earneſt in his devotions; and as
+zealous in his prayers, as he was in his anger. There
+is many a man hot and fiery in his anger, but cold
+and luke-warme in prayers; ſuch zeale is never
+right. <hi>Gal. 4. 18. It is good to be alwayes earneſt in a
+good thing.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, is the word to be hot and fiery,
+and zealouſly affected in one good thing as well as
+another, in devotion, as well as reprehenſion, in
+prayer, as well as in anger. When a mans zeale is
+equable (like <hi>Eliahs)</hi> then it is right and pleaſing to
+God.</p>
+            <p>As Phyſitians judge of the ſtate of a mans body,
+<hi>Vniverſalia ſalutaria, particularia ex mo<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bo;</hi> as thus:
+if a man be hot in one part and cold in another; if the
+palmes of his hands burne, and the ſoles of his feete
+be key-cold, then all is not right; but if he be of an
+<pb n="16" facs="tcp:16509:11"/>
+indifferent equall heate all over, that held a good
+ſigne of good health in the body. By the like rule
+judge thou of the ſtate of thy ſoule, if thy zeale be
+equable and uniforme both in prayer and in anger,
+it is a good ſigne of grace and ſanctification in thy
+heart; but if it vary and differ, that there is too
+much heate in the one, too little in the other; all is
+not well within. It was the reaſon which old Father
+<hi>Latimer</hi> gave, why men in theſe dayes doe not pre<g ref="char:EOLhyphen"/>vaile
+with God in their prayers, as <hi>Eliah</hi> and ſuch
+others had done in former times, <hi>Deeſt ignis</hi> (ſaith
+he) <hi>deeſt ignis, There lackes fire, there lackes fire;</hi>
+his meaning is, our prayers want that zeale, that
+heate, that earneſtneſſe, which they put into theirs.
+For as incenſe without fire yeelds no ſmell, no more
+doth prayer without zeale and earneſtneſſe; and as
+Hony is no Hony, if it have loſt its ſweetneſſe; and
+Vinegar is no Vinegar, if it have loſt its ſharpeneſſe;
+ſo Prayer is no Prayer, if it bee voide of earneſt<g ref="char:EOLhyphen"/>neſſe.
+<hi>Eliah</hi> prayed indeede, becauſe hee prayed
+earneſtly.</p>
+            <p>Now I come to the ſubject, and matter of his
+Prayer which (I told you) was firſt for a judgement,
+and then for a bleſſing, firſt for a drought, and then
+for raine, as it followeth. <hi>Hee prayed earneſtly that it
+might not raine, and it rained not on the earth by the
+ſpace of three yeares and ſixe moneths.</hi> Here are two
+weighty points to be conſidered. 1. What ſhould
+moove <hi>Eliah</hi> to pray for a judgement. 2. Why he
+made choiſe to pray for this kinde of judgement, of
+drought and dearth, rather then for any other. I will
+tell you my opinion of both.</p>
+            <p>
+               <pb n="17" facs="tcp:16509:11"/>
+1. Vpon what ground, or by what warrant did
+<hi>Eliah</hi> pray for a judgement. Saint <hi>Paul</hi> (in my con<g ref="char:EOLhyphen"/>ceit)
+ſeemes to taxe him for it, <hi>Rom. 11. 2.</hi> and he
+brings it in with a <hi>notandum, wote ye not (i.)</hi> doe ye
+not marke and obſerve what the Scripture ſaith of
+<hi>Eliah, how he made interceſsion to God againſt Iſrael.</hi>
+Good men in former times were wont to make in<g ref="char:EOLhyphen"/>terceſſion
+to God <hi>For</hi> the people, not <hi>Againſt</hi> them:
+<hi>Abraham</hi> prayed for the wicked <hi>Sodomites, Ieremy</hi>
+prayed for the Idolatrous <hi>Iſraelites,</hi> till God forbad
+him, and gave him a countermand, <hi>Pray no more for
+this people, for I will not heare thee, Ier. 11. 14.</hi> The
+Husbandman in the Parable entreates his Maſter for
+the unfruitfull tree, that he would ſpare it and not
+cut it downe, and doth <hi>Eliah</hi> differ from all the reſt,
+and bend his prayers againſt the people, and pray
+for the vexation and undoing of his Country? How
+could this ſtand with that good Religion, and that
+good affection which ſo holy a man ſhould beare to<g ref="char:EOLhyphen"/>wards
+the people of God? Anſwer. Three things
+there are (in my weake judgement) that may ſeeme
+to warrant and beare out <hi>Eliah</hi> in praying for a
+judgement.</p>
+            <p>1. <hi>Authoritas Prophetica,</hi> Prophets might doe
+more then ordinary perſons, and <hi>Eliah</hi> had the ſpi<g ref="char:EOLhyphen"/>rit
+of Propheſie, and knew by revelation from God,
+that ſuch a judgement was a comming, therefore
+he might the more warrantably and unoffenſively
+frame his deſires to Gods appointments, and fit his
+prayers to Gods purpoſes. Thus muſt we conceive
+of thoſe bitter execrations and imprecations where<g ref="char:EOLhyphen"/>with
+<hi>David</hi> did ſo often in the Pſalmes curſe and
+<pb n="18" facs="tcp:16509:12"/>
+banne his enemies, <hi>[Let their Table be their ſnare,
+let their children be vagabondes and begge their bread,
+&amp;c.]</hi> A man would thinke it could not ſtand with
+the piety and charity of a godly man, to wiſh ſuch
+wicked events, ſuch uncharitable wiſhes to proceed
+out of his mouth: but onely that we know, he was
+a Prophet of God, and did it <hi>per afflatum divinum,
+by the direction and inſpiration of the Holy Ghoſt;</hi> he
+knew by the ſpirit of Propheſie, they were ſuch as
+were accurſed of God, being Gods enemies as well
+as his, and therefore might the more warrantably
+and ſafely doe it. It is not for us to uſe <hi>Davids</hi> cur<g ref="char:EOLhyphen"/>ſes,
+unleſſe we had <hi>Davids</hi> ſpirit. <hi>David</hi> and <hi>Eliah</hi>
+had that gift which the Apoſtle cals <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>the diſcerning ſpirits;</hi> they knew by inſtinct from
+heaven, who were bleſſed and who were curſed of
+God. It is not ſo with us, God hath hid thoſe ſe<g ref="char:EOLhyphen"/>crets
+from our eyes, and therefore it is our part and
+duty to pray in love and charity, <hi>That God would
+have mercy upon all men.</hi>
+            </p>
+            <p>But what uſe then are we to make of thoſe curſes
+in the Pſalmes that are read ſo often to us? Anſwer,
+Thus we may doe, we may apply them to the ene<g ref="char:EOLhyphen"/>mies
+of the Church, that ſeeke the ruine of the true
+Religion, and profeſſe an open enmity to the Goſ<g ref="char:EOLhyphen"/>pel
+and faith of Ieſus Chriſt (Who is God bleſſed for
+ever) we may ſafely take our Saviours part, and curſe
+all thoſe that are enemies to him: <hi>[So let all thy ene<g ref="char:EOLhyphen"/>mies
+periſh, O Lord, Iud. 5. 31.]</hi> But for our owne e<g ref="char:EOLhyphen"/>nemies,
+that have done us ſome private wrong, or
+bare us ſome ſecret grudge, to curſe them and ban
+them in this kinde (as the uſuall manner of ſome is)
+<pb n="19" facs="tcp:16509:12"/>
+it is both unwarrantable, uncharitable, and ungod<g ref="char:EOLhyphen"/>ly.
+But the beſt and ſafeſt uſe, that we can make of
+thoſe curſes, is to appropriate and apply them to
+our ſelves, to acknowledge and adjudge our ſelves
+worthy to undergoe all thoſe deadly evils, and that
+God may juſtly doe ſo; and more than ſo unto us,
+if hee ſhould deale with us according to our ſinnes;
+by this meanes we ſhall ſave God a labour, and our
+ſelves a paine. For as on the contrary, to bleſſe our
+ſelves is the way to make God curſe us, <hi>Deut. 29.
+20. Hee that bleſſeth himſelfe when hee heareth the
+words of theſe curſes, ſaying, I ſhall have peace though
+I walke in the imagination of my owne heart, adding
+drunkenneſſe to thirſt.</hi> (marke what followes) <hi>The
+Lord will be revenged upon the ſoule of ſuch a one, his
+anger and his jealouſie ſhall ſmoke againſt that man, and
+all the curſes that are written in this booke ſhall light
+upon him, and the Lord ſhall blot out his name from
+under Heaven.</hi> This a man gets by bleſſing of him<g ref="char:EOLhyphen"/>ſelfe:
+whereas if thou wouldſt be bleſt of God, I
+doe not ſay, that thou ſhouldſt curſe thy ſelfe (farre
+be it from any ſervant of Chriſt ſo to doe) but this
+I would adviſe thee to doe, even with a ſorrowfull
+and a ſad heart, to ſay <hi>Amen</hi> to all the curſes in the
+Booke of God, to acknowledge and confeſſe that
+thou haſt juſtly deſerved, and that it is Gods onely
+mercy that thou haſt eſcaped them. So much for
+the firſt reaſon that may warrant <hi>Eliahs</hi> prayer; the
+next may be this.</p>
+            <p>2. <hi>Convenientia temporis,</hi> the fitneſſe and order
+of time when this was done, it was done in the time
+of the Law, which was uſed to ſuch judgements,
+<pb n="20" facs="tcp:16509:13"/>
+they were then accuſtomed to more terrible won<g ref="char:EOLhyphen"/>ders,
+than are now ſutable to the ſweete and ſaving
+time of the Goſpel; obſerve the wonders that <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi>
+wrought in <hi>Egypt,</hi> what terrible, what hurtfull,
+what miſchievous wonders they were, he turned all
+their water into blood, all their duſt into Lice, and
+ſpoyled all the fruits of the earth, and undid the
+whole Land. What a dreadfull wonder was that
+of <hi>Eliſha, 2 Reg. 2.</hi> when he curſed the children of <hi>Be<g ref="char:EOLhyphen"/>thel,</hi>
+that mocked him for his baldneſſe: One would
+have thought that a little diſcipline, a little correcti<g ref="char:EOLhyphen"/>on,
+or ſending to their Parents or Maſters, would
+have ſufficed, and beene a ſufficient revenge for
+waggiſh unhappy boyes, that did not know their
+duty to a man of God: but hee lookes upon them
+with a direfull countenance, and <hi>curſed</hi> and banned
+<hi>them in the name of the Lord,</hi> and immediately <hi>two
+Shee-beares came out of the Wood, and tare two and for<g ref="char:EOLhyphen"/>ty
+of them in pieces:</hi> what a horrible, what a terri<g ref="char:EOLhyphen"/>ble,
+what a miſcheivous wonder was this? Of the
+ſame kind was that of <hi>Eliah, 2 Reg. 1.</hi> When the
+Captaine came with authority, to bid him come
+downe, and come before the King; he might have
+anſwered, I cannot come, or the Lord appointed
+me ſome other way to goe, &amp;c. but the next word
+we heare, is a word of Iudgement and Vengeance,
+<hi>If I be a man of God, let fire come downe from heaven,
+and conſume thee, and thy company:</hi> and ſo it did both
+them, and the reſt that came after on the ſame meſ<g ref="char:EOLhyphen"/>ſage.
+Such wonders as theſe were uſuall in the time
+of the Law. But now looke to the Miracles and
+Wonders of our Saviour in the Goſpell, and you
+<pb n="21" facs="tcp:16509:13"/>
+ſhall finde them to be of another nature, all of good<g ref="char:EOLhyphen"/>neſſe
+and mercy, all mercifull, all beneficiall, all
+healing Miracles, no way hurtfull or deſtructive of
+any mans life. We read of many a mans life that he
+ſaved, many that hee recalled and reſtored, none
+that he deſtroyed, no not one: being ſo reviled as
+he was, ſo perſecuted, ſo laid for, ſo betrayed, ap<g ref="char:EOLhyphen"/>prehended,
+condemned and crucified; yet what
+one man did our Saviour ſtrike dead for all theſe
+haynous indignities? Nay, he was ſo farre from re<g ref="char:EOLhyphen"/>venge,
+that he prayed for their lives that ſought and
+wrought his death.</p>
+            <p>The moſt terrible wonders that ever our Saviour
+did, were but two, and thoſe no wayes prejudici<g ref="char:EOLhyphen"/>ous
+to the perſon or life of any man, woman, or
+childe. The one was his <hi>curſing</hi> and blaſting of <hi>the
+barren Figge-tree;</hi> and this was but ſymbolicall,
+not done in any ſpleene to the poore tree; but one<g ref="char:EOLhyphen"/>ly
+to ſhew his indignation againſt all unfruitfull pro<g ref="char:EOLhyphen"/>feſſion;
+when men make an outward ſhew of piety
+to God; but when the poore and hungry come to
+them (as Chriſt came to that Figge-tree) hoping
+to pull ſome fruite of charity and mercy from them,
+there is nothing to be found but leaves, good words
+perhaps, and that is all: beleeve it, ſuch men are
+nigh unto curſing, and it is Gods infinite mercy, if
+he doe not blaſt their eſtate (as Chriſt did the Fig-tree)
+that it ſhall never proſper to them nor theirs.
+The other wonder of Chriſt that did any hurt, was
+that, <hi>Matth. 8. The drowning of the Swine,</hi> and yet
+that was the devils doing, Chriſt onely gave way
+to theſe evill ſpirits (which ſeeke the deſtruction of
+<pb n="22" facs="tcp:16509:14"/>
+man and beaſt) to carry them headlong into the ſea
+(as they would carry us too, but that God above,
+who ſtiles himſelfe <hi>The preſerver of men,</hi> is pleaſed
+in mercy to keepe out of their clutches;) and this
+was ſymbolicall too, to let us underſtand how God
+hates all thoſe that are of a <hi>ſwiniſh diſpoſition;</hi> that
+is, all drunken ſots, that like ſwine, have neither
+wit nor grace to moderate themſelves in the uſe of
+Gods creatures; and all lazy beaſts that minde no<g ref="char:EOLhyphen"/>thing
+but their bellies, (as you know) a Swine is
+one of the lazieſt creatures that a man can keepe, it
+doth him no worke, nor ſervice at all; or laſtly,
+All hoggiſh worldlings, and miſerable mucke<g ref="char:EOLhyphen"/>wormes
+of the earth, that never doe good till they
+come to dye: let all ſuch tremble and feare, and
+call to God for mercy, leaſt in his juſt judgement he
+deliver their ſoules into the hands of thoſe helliſh
+Fiends to carry them headlong (as they did the
+Swine) <hi>into the lake that burneth with fire and brim<g ref="char:EOLhyphen"/>ſtone
+for evermore, there ſhall be weeping and gnaſhing
+of teeth.</hi>
+            </p>
+            <p>Theſe are the two ſevereſt wonders that ever our
+Saviour did, or ſuffered to be done; as for all the
+reſt (looke into the Stories of the Goſpell, which
+are the Acts and Monuments of Ieſus Chriſt) you
+ſhall finde to be all gracious, all beneficiall, all hea<g ref="char:EOLhyphen"/>ling
+and ſaving wonders. Never any man came to
+him for ſight, that went away blind; never any
+came to him for hearing, that went away deafe;
+never any came to him for health, that went away
+ſicke. In a word, you ſhall never finde that ever a<g ref="char:EOLhyphen"/>ny
+man or woman came to our Saviour for any helpe
+<pb n="23" facs="tcp:16509:14"/>
+or mercy, that ever went away confounded or diſ<g ref="char:EOLhyphen"/>appointed
+of their hopes. Now beloved, Chriſt is
+the ſame Ieſus ſtill, that then hee was: <hi>Coelum non
+animum</hi> (as wee ſay) though hee have changed his
+place, he hath not changed his nature, but is ſtill as
+favourable, as indulgent to mankind as ever he was,
+if we doe but as truely ſeeke unto him for our ſoules
+health, as they did for their bodies.</p>
+            <p>So you ſee the nature of theſe wonders is altered
+from that they were in <hi>Eliahs</hi> times: the ſeverity
+of the Law ſuites not with the lenity of the Goſpell;
+and wee muſt now imitate our Saviour in workes of
+mercy, and not follow <hi>Eliah</hi> in prayers for judge<g ref="char:EOLhyphen"/>ment.
+Wee ſee, <hi>Luke 9. 54.</hi> When the Diſciples
+fingers itched to be revenged on the <hi>Samaritans</hi> for
+their baſe diſcourteſie in not entertaining our Savi<g ref="char:EOLhyphen"/>our;
+<hi>Maſter,</hi> (ſaith they) <hi>wilt thou that we command
+fire from Heaven, and conſume them, as Eliah did?</hi>
+Wee have a preſident for it, it is a booke caſe, <hi>Eliah</hi>
+did ſo, let us doe the like, theſe men deſerve it, as
+bad or worſe than they with whom <hi>Eliah</hi> had to
+doe: <hi>No,</hi> (ſaith our Saviour, the caſe is altered) <hi>ye
+know not of what ſpirit ye are;</hi> the ſpirit of the Law
+required ſeverity, the ſpirit of the Goſpell requires
+meekeneſſe and mercy. Farre is it from the good
+Spirit of Chriſt and of God, to ſtirre up any mans
+heart to private revenge; not an Eagle, but a Dove
+was the ſhape wherein that holy and healthfull Spi<g ref="char:EOLhyphen"/>rit
+made choiſe to appeare. Let us therefore all that
+are called Chriſtians, follow no other preſident, but
+our Saviour Chriſts; whoſe onely leſſon that ever
+he ſet us to learne of him, was this, to be humble and
+<pb n="24" facs="tcp:16509:15"/>
+meeke, and ſo doing we ſhall find <hi>Requiem animabus;
+reſt and peace to our owne ſoules.</hi>
+            </p>
+            <p>The third and laſt reaſon that may warrant <hi>Eliah</hi>
+in praying for a judgement, was,</p>
+            <p>3. <hi>Neceſsitas rei, the neceſsity of the thing it ſelfe;</hi>
+that holy Prophet had ſpent his ſtrength in vaine,
+Sermon upon Sermon, warning upon warning,
+threatning upon threatning; and when he ſaw that
+nothing would worke them to goodneſſe, then he
+prayes for a judgement; not in a vindictive way to
+be revenged upon them, but as a deſperate remedy,
+knowing that that or nothing would bring them to
+good, as it is ſaid, <hi>2 Chron. ult.</hi> God ſent his Pro<g ref="char:EOLhyphen"/>phets,
+<hi>riſing early and ſending them,</hi> and uſed all gen<g ref="char:EOLhyphen"/>tle
+meanes to reclaime them, <hi>till there was no remedy,</hi>
+then he ſent deſtruction. In this ſence, if a man have
+a child or a friend, or any one that he wiſheth well
+to his ſoule; if he be growne to that paſſe, ſo hard<g ref="char:EOLhyphen"/>ned
+in ſinne, that no perſwaſions, no warnings, no
+threatnings will worke upon him; I am perſwa<g ref="char:EOLhyphen"/>ded,
+it were neither uncharitable, nor unpleaſing to
+God, if a man ſhould pray, Lord ſmite him, cor<g ref="char:EOLhyphen"/>rect
+him, lay ſome medicinall, ſome healing pu<g ref="char:EOLhyphen"/>niſhment
+upon him, that hee may ſee the errour
+of his wayes, and may returne and repent, and ſo be
+ſaved.</p>
+            <p>Vpon theſe and the like grounds, I ſuppoſe <hi>Eliah</hi>
+might with a ſafe conſcience pray for a judgement:
+but then the next queſtionis, Why he ſhould make
+choiſe to pray for this kind of judgment, of drought
+and dearth, for want of raine; rather then any other.
+I will tell you what I thinke the reaſons may be.</p>
+            <p>
+               <pb n="25" facs="tcp:16509:15"/>
+1. Becauſe it was an uncontrouleable, a convin<g ref="char:EOLhyphen"/>cing
+judgement; if <hi>Eliah</hi> ſhould have brought any
+earthly or viſible judgement, as Sword or Peſti<g ref="char:EOLhyphen"/>lence,
+&amp;c. they would have imputed it preſently to
+ſome ſecondary meanes and cauſes; now this was
+a heavenly an inviſible judgement, the ſtoppage of
+the clouds, the detaining of Raine, and the burning
+and ſcorching of the Sunne; was a judgement from
+heaven, and ſuch as they muſt needes confeſſe to be
+<hi>Digitus, the finger of God,</hi> not <hi>Aliquid humani,</hi> no
+handy worke of any mortall man. For this was the
+fallacy which the Scribes and Phariſees put upon
+our Saviour <hi>Math. 16. 1.</hi> When they had ſeene all
+the miracles and wonders of Chriſt, how he cured
+the ſicke, &amp;c. they conceited that theſe things
+might be done by ſlight of hand, by Art of Magicke,
+by <hi>Beelzebub,</hi> or by Conjuration, &amp;c. but (ſay they)
+<hi>Shew us a ſigne from heaven; and then we will beleeve.</hi>
+They knew that a Magician or a devill might doe
+much upon earth, but he could doe nothing in hea<g ref="char:EOLhyphen"/>ven;
+therefore (ſay they) <hi>ſhew us a ſigne from Hea<g ref="char:EOLhyphen"/>ven,
+and we will beleeve.</hi> So here to prevent all miſ<g ref="char:EOLhyphen"/>conceites,
+<hi>Elias</hi> prayed and procures a judgement
+from heaven; and that a convincing a cutting judge<g ref="char:EOLhyphen"/>ment;
+for you muſt know that the people at that
+time left off to worſhip the true God, and fell to
+worſhip <hi>Baall,</hi> the Sunne, the Moone, and all the
+Hoaſt of Heaven; truſting no doubt that theſe gods
+of theirs, would by their influence ſo moyſten and
+fatten the earth, that they ſhould not need to be be<g ref="char:EOLhyphen"/>holding
+to God for any raine: now (quoth <hi>Eliah)</hi>
+here is a judgement to try yours gods withall, goe
+<pb n="26" facs="tcp:16509:16"/>
+to the gods that ye have ſerved, let them helpe now
+or never, if they can doe any thing, they can ſend a
+ſhowre of rayne, if not, why doe ye ſerve them?
+I ſay it was a convincing judgement. <hi>Eliah</hi> did it on
+purpoſe, to let them ſee the vileneſſe of their Idola<g ref="char:EOLhyphen"/>try,
+what baſe, what impotent, what unworthy
+gods they ſerved, that could not helpe their clyents
+to a droppe of raine. In like manner, whatſoever a
+man makes his god, beſides the true one; I meane,
+puts his truſt in, for helpe in time of neede; ſhall
+at length ſo deceive him, and ſo befoole him, that
+hee ſhall bee forced to confeſſe, as theſe people
+did in the end; <hi>The Lord he is God, The Lord hee is
+God.</hi>
+            </p>
+            <p>2. Becauſe it was a juſt and a fitting puniſhment;
+this people were guilty of ſpirituall barrenneſſe, and
+God plagued them with temporall barrenneſſe. No
+Nation under heaven was ſo husbanded, and manu<g ref="char:EOLhyphen"/>red
+of God, ſo watered with the dewes of heaven,
+I meane, with the meanes of grace and ſalvation, as
+they were, and yet none more unfruitfull in every
+good worke: Now therefore <hi>Eliah</hi> fits them with
+a judgement ſutable and agreeable to their ſinne: he
+prayes to God that it might not raine, that ſo their
+lands might be anſwerable to their lives, and their
+foyles become as barren as their ſoules. Thus it
+pleaſeth God many times to pay men in their owne
+coyne, to come home to them in their owne kinde,
+and to fit his puniſhments according to their ſinnes.
+That as they that ſinne in their goods, by miſget<g ref="char:EOLhyphen"/>ting,
+miskeeping, and miſpending them, are many
+times puniſhed in their goods, by loſſes, and croſſes,
+<pb n="27" facs="tcp:16509:16"/>
+by fire, by water, &amp;c. And as they that ſinne in their
+children, by miſloving, or miſnurturing them, are
+oft times puniſhed in their children, as <hi>David</hi> was
+in <hi>Abſolom</hi> and <hi>Adonijah;</hi> ſo they that ſinne in
+their lands: it is juſt with God to puniſh them in
+their lands: <hi>Solomon</hi> tels us, <hi>Prov. 21. 4.</hi> that <hi>the
+plowing of a wicked man is ſinne,</hi> That is ſtrange; the
+husbandry and tillage of the ground is generally
+held to be one of the moſt honeſt, the moſt inno<g ref="char:EOLhyphen"/>cent,
+the moſt harmeleſſe callings in the world; and
+ſo it is of it ſelfe; and yet wee ſee, when a wicked
+man takes the plow in hand; when a man goes to his
+plow with an ill minde, and an ill conſcience, his
+very plowing addes to his ſinnes. And it is juſt with
+God, that that land which is plowed ſinfully, ſhould
+thrive accordingly, and become as bad and as bar<g ref="char:EOLhyphen"/>ren
+as the owner. <hi>A fruitfull land doth God make
+barren, for the wickedneſſe of them that dwell therein.</hi>
+            </p>
+            <p>3. Becauſe it was a ſenſible, and a palpable judge<g ref="char:EOLhyphen"/>ment.
+As God Almighty told <hi>Caine, Gen. 4. 7.</hi> that
+<hi>hee ſhould be curſed from the earth.</hi> The Lord knew
+that <hi>Caine</hi> cared not to be curſed from heaven, and
+to be baniſhed from the preſence of God, and bran<g ref="char:EOLhyphen"/>ded
+for a Reprobate; but to bee curſed from the
+earth, to be curſed in earthly things (hee being a
+tiller of the earth) that would goe neareſt to his
+heart of any judgement. Even ſuch is the diſpoſiti<g ref="char:EOLhyphen"/>on
+of every man of the earth (as <hi>David</hi> termes earth<g ref="char:EOLhyphen"/>ly
+minded men) they doe not value nor care to be
+curſed from heaven, to be excommunicated out of
+the favour of God, and out of the bleſſed company
+of all faithfull people (which cenſure of excommu<g ref="char:EOLhyphen"/>nication
+<pb n="28" facs="tcp:16509:17"/>
+if it be rightly carryed with a <hi>Clave non e<g ref="char:EOLhyphen"/>rante</hi>
+(as the Schoolemen ſpeake) when there is no
+errour committed in the uſe of the keyes, is one of
+the greateſt puniſhments under heaven.) But carnall
+men are not ſenſible of this, and therefore God will
+puniſh them in that wherein they are ſenſible, in
+their wives and children, in their corne and cattell,
+&amp;c. in ſuch things as are neereſt and deareſt to them:
+as when <hi>David</hi> ſlung his ſtone at <hi>Goliah,</hi> if hee had
+ſtrucke him upon any part of his harneſſe, hee had
+never felt the blow, but ſtriking him (as hee did) in
+the forehead, which was naked and tender, that
+ſunke him preſently; ſo it is with carnall men, for
+ſpirituall judgements, they are harneſſed, their hearts
+are hardned, their conſciences are ſeared, they have
+(as the Apoſtle ſpeakes) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a horny hoofe
+(as it were) growne over their hearts, that makes
+them inſenſible of any ſpirituall blow that can light
+upon them. Therefore Almighty God, knowing in
+what part they lie naked, in what kinde they are ten<g ref="char:EOLhyphen"/>derly
+affected, namely, in their affection to earthly
+things, ſtrikes them there, plagues them in that,
+and that ſinkes them like <hi>Nabal,</hi> whoſe heart dyed
+within him like a ſtone. As we ſee in <hi>Exodus,</hi> how
+<hi>Pharaoh</hi> and the <hi>Egyptians</hi> hardned their heart, and
+out ſtood all the plagues of <hi>Egypt,</hi> till God plagued
+them in their children, and that broke their hearts.
+So beleeve it, they that care not for ſpirituall pu<g ref="char:EOLhyphen"/>niſhments
+(for the loſſe of Gods favour, the loſſe of
+heaven, the loſſe and perill of their owne ſoules)
+God will finde a time to puniſh them in that which
+they doe and ſhall care for, in their corne, in their
+<pb n="29" facs="tcp:16509:17"/>
+ſubſtance, in that which is neereſt and deareſt to
+them: As he did theſe <hi>Iſraelies</hi> here, becauſe they
+were not ſenſible of the want of grace. God puniſht
+them with that would make them ſenſible, with the
+want of raine; that when they had plowed and
+ſowne their land, and beſtowed all their care and
+coſt, all ſhould be in vaine, for want of moiſture to
+refreſh the earth. Theſe or the like reaſons (I ſup<g ref="char:EOLhyphen"/>poſe)
+might moove <hi>Eliah</hi> to pray and procure this
+kinde of judgement.</p>
+            <p>By the way, if any man deſire to know the rea<g ref="char:EOLhyphen"/>ſon,
+why God is not thus marveilous in the Mini<g ref="char:EOLhyphen"/>ſters
+of the Goſpell, as hee was in <hi>Eliah,</hi> and thoſe
+other Prophets of the Law; why wee that are his
+Evangelicall Prophets cannot doe ſuch wonders in
+our dayes, as they did in theirs? Anſwer, though
+that ſame <hi>donum miraculorum,</hi> the gift of Miracles
+be ceaſed in the Church, now that the Goſpell hath
+taken roote: as Husbandmen when they tranſplant a
+tree, at firſt, they ſet props and ſtayes to ſhore it up,
+but after it hath taken root, they take away the ſtaies
+and let it grow by the ordinary influence of the hea<g ref="char:EOLhyphen"/>vens;)
+I ſay though the gift of working wonders be
+ceaſed, yet miracles &amp; wonders in another kind ne<g ref="char:EOLhyphen"/>verceaſe,
+but are wrought daily by the Preachers of
+the Goſpell. For you muſt know that the miracles
+under the Goſpell are of a differing nature from the
+miracles under the Law: thoſe were <hi>ocularia mira<g ref="char:EOLhyphen"/>cula</hi>
+(as I may fitly call them) <hi>eye-miracles,</hi> that
+were viſible and outwardly apparent to be ſeene;
+but theſe are <hi>Auricularia miracula, Eare-miracles,</hi>
+ſecret and inviſible, wrought in the heart by the
+<pb n="30" facs="tcp:16509:18"/>
+Word and Spirit of God, entring in at the eare, and
+going downe into the ſoule. Though wee cannot
+command, or forbid the raine to water the earth, as
+<hi>Eliah</hi> did; if we can water and mollifie the earthen
+hearts of men with the ſupernaturall raine of hea<g ref="char:EOLhyphen"/>venly
+Doctrine, and make a dry and barren ſoule
+beare fruit to God; is not this as great a wonder as
+the other? Though we cannot cauſe nor command
+the thunder (as <hi>Samuel</hi> did) to terrifie the people for
+their ſinnes; yet God hath his <hi>Boanerges,</hi> his ſons
+of thunder ſtill, that by ratling from heaven the ter<g ref="char:EOLhyphen"/>rible
+judgements of God againſt ſinne and ſinners,
+are able to make the ſtouteſt and the proudeſt heart
+upon earth, even tremble and quake, and fall downe
+before the preſence of God; and is not this as great
+a miracle as that of <hi>Samuel,</hi> to bring an unhumbled
+ſinner upon his knees, and make glad to cry God
+mercy for his ſinnes? In a word, though we can<g ref="char:EOLhyphen"/>not
+caſt out devils out of mens bodies, as the diſci<g ref="char:EOLhyphen"/>ples
+of Chriſt could doe; if wee can caſt the devill
+out of mens ſoules, by the powerfull Goſpell of Ie<g ref="char:EOLhyphen"/>ſus
+Chriſt; is it not as great a wonder? Beleeve it
+brethren, the converſion of a ſinner to God, and
+bringing of a ſoule to heaven, is abſolutely with<g ref="char:EOLhyphen"/>out
+compariſon the greateſt miracle, the greateſt
+wonder in the world. And theſe be the miracles
+wherewith it pleaſeth God to grace the Miniſters
+of the Goſpell; therefore ye obſerve, that the Col<g ref="char:EOLhyphen"/>lect
+for Miniſters, runs thus, <hi>Almighty God which only
+workeſt great marvels, &amp;c.</hi> When a ſoule is ſicke to
+the death, with a ſurfeit of ſinne, is recovered and re<g ref="char:EOLhyphen"/>vived
+againe by that ſame healthfull ſpirit of grace,
+<pb n="31" facs="tcp:16509:18"/>
+which God together with his Word doth breathe
+into the ſoule, it is ſo great a marvell, ſo rare a won<g ref="char:EOLhyphen"/>der,
+that the Angels of heaven rejoyce to ſee it.</p>
+            <p>I have held you over-long in the former part of
+<hi>Eliahs</hi> prayer, which brought the judgement: heare
+now in a word or two, the Reverſing of the judge<g ref="char:EOLhyphen"/>ment,
+and I have done. <hi>[And hee prayed againe, and
+the heavens gave raine, and the earth brought forth her
+fruit.]</hi> It well becomes the Prophets of God to be
+mercifull; Good <hi>Eliah</hi> had not the heart to hold
+the people too long under a judgement, when hee
+ſaw he had done enough to humble them, he deſires
+God to reverſe the judgement. As it is obſerved of
+the good Angels in the old and new Teſtament,
+when they appeared to any, either man, or woman;
+their method and manner was this, <hi>Primo terrent,
+deinde laetificant,</hi> they firſt terrified them, and put
+them into feare, then preſently comforted them,
+and put them out of feare. Thus did <hi>Eliah</hi> with
+this people; thus did <hi>Moſes</hi> with <hi>Pharaoh,</hi> that
+good man had not the heart to hold wicked <hi>Pharaoh</hi>
+alway under a judgement, but upon the leaſt en<g ref="char:EOLhyphen"/>treaty
+made ſuite to God to reverſe it. So dealt the
+Prophet with <hi>Ieroboam, 1 Reg. 13. 6.</hi> when hee had
+ſmitten him with a judgement, and had him at the
+advantage, that his hand was witnered, <hi>Ieroboam</hi>
+was glad to ſubmit and ſay, <hi>Intreate now the face of
+the Lord thy God, and pray for me, that my hand may
+be restored me:</hi> The man of God had not the heart
+to deny him, but immediately, beſought the Lord,
+and the Kings hand was reſtored, and became as it
+was before. When a judgement comes, then Pro<g ref="char:EOLhyphen"/>phet
+<pb n="32" facs="tcp:16509:19"/>
+are in ſeaſon. <hi>Abraham</hi> is better than a King
+in this caſe, <hi>Gen. 20. 7. Reſtore the man his owne, for
+he is a Prophet, and hee ſhall pray for thee;</hi> and ver.
+17. <hi>Abraham prayed unto God, and God healed Abi<g ref="char:EOLhyphen"/>melech,
+&amp;c. Goe to my ſervant Iob</hi> (ſaith God to his
+friends, <hi>Iob 42. 8.) and my ſervant Iob ſhall pray for
+you, for him will I accept.</hi> So <hi>Act. 8. 24.</hi> When <hi>Peter</hi>
+had denounced a curſe on <hi>Simon Magus,</hi> he was glad
+to crouch and cry unto him, <hi>Oh pray yee to the Lord
+for me, that none of theſe things which ye have ſpoken
+come upon mee.</hi> Thus yee ſee that judgements and
+plagues will bring Prophets into requeſt: men com<g ref="char:EOLhyphen"/>monly
+deale with their Miniſters, as boyes doe by
+Walnut-trees, and other fruit-trees, in faire wea<g ref="char:EOLhyphen"/>ther
+throw cudgels at us, in foule runne to us for
+ſhelter. In the dayes of peace and proſperity wee
+are paſt over as ſuperfluous creatures, of whom
+there is little uſe, and leſſe neede: but when the
+wrath of God fals on the naked ſoule, when the con<g ref="char:EOLhyphen"/>ſcience
+is wounded within, and body pained with<g ref="char:EOLhyphen"/>out,
+then the Miniſter is thought on. I ſay no more,
+if you deſire their prayers, and that God ſhould heare
+them praying for you in your extremity, doe not
+ſlight them, doe not wrong them in proſperity. Re<g ref="char:EOLhyphen"/>member
+how <hi>Ahab</hi> and all <hi>Iſrael</hi> were glad to be be<g ref="char:EOLhyphen"/>holden
+to <hi>Eliah</hi> to reverſe their judgement; and you
+do not know how ſoone the caſe may be your owne:
+therefore as you love your ſoules, love thoſe that
+have charge of them.</p>
+            <p>
+               <hi>And he prayed againe, &amp;c.</hi> When I looke into the
+Story, <hi>1 Reg. 18.</hi> I can finde no direct prayer that
+<hi>Eliah</hi> made for raine. But I finde there a twofold
+<pb n="33" facs="tcp:16509:19"/>
+prayer that he made. 1. A vertuall. 2. A formall
+prayer.</p>
+            <p>1. A Vertuall prayer, not for raine, but for their
+converſion. <hi>Oh Lord,</hi> (ſaith <hi>Eliah) bring backe, or
+bring home the heart of this people unto thee; verſ. 73.</hi>
+and this includes all other prayers that can be made:
+A prayer for converſion is a prayer for every thing,
+<hi>Ier. 31. 18.</hi> When <hi>Ephraim</hi> prayes for converſion,
+<hi>Turne thou me, and I ſhall be turned:</hi> (ſaith God)
+<hi>I will ſurely have mercy upon him &amp;c.</hi> Such is the
+goodneſſe of God, that he will with-hold no good
+thing, (be it raine, be it plenty, be it any thing that
+is good for them) from them that are converted,
+and brought home by true repentance to him.
+Therefore if thou ſtandeſt in need of any temporall
+mercy, pray firſt for converſion, and all other good
+things ſhall be ſuper-added and throwne in unto
+thee; or if thou prayeſt for any child, or for any
+friend to doe him good indeed, pray for his conver<g ref="char:EOLhyphen"/>ſion,
+and thou prayeſt for every thing, that one
+prayer is <hi>inſtar omnium, inſteed of all the reſt.</hi> If he
+be in an ill way, deſire God to bring him backe, and
+for future things take no care.</p>
+            <p>2. A formall prayer, when he ſaw that the peo<g ref="char:EOLhyphen"/>ple
+were truely humbled, and that their hearts were
+indeed brought home to God, inſomuch that they
+cryed out, with an ingemmination, <hi>The Lord hee is
+God, the Lord he is God,</hi> then he buckles his head be<g ref="char:EOLhyphen"/>tweene
+his knees (to ſhew the humble proſtration
+of his ſoule) and fals a praying to God for raine.
+After humiliation any prayer comes in ſeaſon, <hi>Eſay
+1. Waſh ye, make ye cleane, put away the evill of your
+<pb n="34" facs="tcp:16509:20"/>
+doings, &amp;c. And now come</hi> (ſaith God) <hi>and wee will
+reaſon together,</hi> now let us parle, now let us confeſſe,
+now pray and I will heare you. <hi>Iud. 10. 17.</hi> When
+the <hi>Iſraelites</hi> put away their ſtrange gods, and turned
+themſelves to the true God by ſincere repentance
+and reformation; the Text ſaith, <hi>His ſoule was grie<g ref="char:EOLhyphen"/>ved
+for the miſery of Iſrael:</hi> thus the onely way to
+caſe our owne ſoules of griefe, or to be rid of any
+grievous judgement, is to <hi>grieve the ſoule of God,</hi> that
+is, to humble our ſelves before him, to pray and
+ſeeke his face, and to turne from our wicked wayes,
+and God will be even grieved with himſelfe that e<g ref="char:EOLhyphen"/>ver
+he puniſhed, plagued, and put us to griefe; and
+he will returne (as he ſaith) and have mercy on us,
+and will do us good after he hath done us hurt. Here
+then (in a word) is the ready way to prevaile with
+God, either for raine, or for faire weather, or for a<g ref="char:EOLhyphen"/>ny
+temporall bleſſing whatſoever, to doe as <hi>Eliah</hi>
+did, buckle our very heads betweene our knees, I
+meane, proſtrate our ſelves before the face of God,
+in the humbleſt, in the lowlieſt, in the moſt dejected
+manner that we can device, and if any meanes un<g ref="char:EOLhyphen"/>der
+heaven will fetch downe mercy from heaven,
+that will doe it. <hi>Eliah prayed againe, and the heavens
+gave raine, and the earth brought forth her fruit.</hi> Now
+to God the Father, God the Sonne, and God the Ho<g ref="char:EOLhyphen"/>ly
+Ghoſt, be aſcribed and given, all honour and glo<g ref="char:EOLhyphen"/>ry
+be done and performed all ſervice and duty, from
+this time forth for evermore, <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
